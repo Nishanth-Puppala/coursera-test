@@ -19,6 +19,7 @@ p
 	height: 180px ;
 	margin-right: auto ;
 	margin-left: auto ;
+	margin-bottom: auto;
 	color: white;
 	position: relative;
 }
